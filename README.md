@@ -1,0 +1,1 @@
+# nativescript-videoplayer-ios
